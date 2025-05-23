@@ -14,10 +14,6 @@ This repository tracks my daily progress and provides quick access to the proble
 
 ---
 
-## How to Use
-- Update this table daily with the problems you solve and their respective links.
----
-
 ## Goals
 
 - Improve problem-solving speed and accuracy.
