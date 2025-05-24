@@ -11,6 +11,8 @@ This repository tracks my daily progress and provides quick access to the proble
 |-----|-----------|-----------|-----------|-----------|
 | 1   | [Two Sum](https://github.com/riya102002/Leetcode_150/blob/main/TwoSum.java) | [Merge Two Sorted Arrays](https://github.com/riya102002/Leetcode_150/blob/main/Merge_two_sorted_arrays.java) | [Remove Elements](https://github.com/riya102002/Leetcode_150/blob/main/Remove_Element.java) | [Buy And Sell Stocks](https://github.com/riya102002/Leetcode_150/blob/main/Buy_and_Sell_Stocks.java) |
 | 2   | [Rotate Array](https://github.com/riya102002/Leetcode_150/blob/main/Rotate%20Array.java) | [Remove Duplicates from Sorted Array](https://github.com/riya102002/Leetcode_150/blob/main/Remove_duplicates_from_sorted_array.java) | [Majority Element](https://github.com/riya102002/Leetcode_150/blob/main/Majority%20Element.java) | [Simplify Path](https://github.com/riya102002/Leetcode_150/blob/main/Simplify%20Path.java) |
+| 3   | [Plus One](https://github.com/riya102002/Leetcode_150/blob/main/Plus%20One.java) | [Merge Sorted List](https://github.com/riya102002/Leetcode_150/blob/main/Merge%20Sorted%20List.java) | [Climbing Stairs](https://github.com/riya102002/Leetcode_150/blob/main/Climbing%20stairs.java) | [Search Insert Position](https://github.com/riya102002/Leetcode_150/blob/main/Search%20Insert%20Position.java) |
+
 
 ---
 
